@@ -11,6 +11,11 @@
 .see h5 {
     color: orange;
 }
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+}
 .buy {
     background-color:black;
     color: white;
